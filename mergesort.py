@@ -49,11 +49,3 @@ sorted_data = sort(data, start, end)   # sort function call
 print(f"Input Data:{data}\nSorted Data: {sorted_data}")   # print input list and sorted list
 
 
-
-
-
-
-
-
-
-
